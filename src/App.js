@@ -3,7 +3,7 @@ import React from "react"
 function App() {
   return (
     <div className="w-screen h-fill lg:h-screen bg-gray-100 flex flex-col overflow-x-hidden">
-      <div className="flex justify-center w-screen h-screen mt-32 mb-40">
+      <div className="flex justify-center w-screen h-screen mt-24 mb-40">
         <div className="flex flex-col lg:flex-row lg:space-x-72 justify-between items-center">
           <div>
             <img
